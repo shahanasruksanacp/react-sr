@@ -11,7 +11,7 @@ const App = () => {
       <Sample />
       <Sample1 />
       <ParentComp/>
-      <Count></Count>
+      <Counter />
       </>
   )
 }
